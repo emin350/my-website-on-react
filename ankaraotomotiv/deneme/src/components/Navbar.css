@@ -1,0 +1,26 @@
+li {
+    padding: 13px;
+    margin-left: 30px;
+}
+
+ .nav-link {
+  font-size:medium;
+  font-weight: bold;
+ }
+
+.navbar-brand {
+    font-size: x-large;
+}
+
+.navlink {
+  text-decoration: none;
+}
+
+.navlink:hover {
+  color:rgb(216, 195, 195);
+  text-decoration:underline;
+}  
+
+
+
+
